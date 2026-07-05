@@ -1,0 +1,43 @@
+# Geotechnique — Aulnay-sous-Bois
+
+> Geotechnical engineering services in Aulnay-sous-Bois, France.
+
+## Services
+- [Amelioration Sols](https://aulnay-sous-bois.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://aulnay-sous-bois.geotechnique.biz/ancrages/)
+- [Chaussee Rigide](https://aulnay-sous-bois.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://aulnay-sous-bois.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://aulnay-sous-bois.geotechnique.biz/colonnes-ballastees/)
+- [Essai Cpt](https://aulnay-sous-bois.geotechnique.biz/essai-cpt/)
+- [Essai Plaque Charge](https://aulnay-sous-bois.geotechnique.biz/essai-plaque-charge/)
+- [Excavations](https://aulnay-sous-bois.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://aulnay-sous-bois.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://aulnay-sous-bois.geotechnique.biz/fondations/)
+- [Geophysique](https://aulnay-sous-bois.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://aulnay-sous-bois.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://aulnay-sous-bois.geotechnique.biz/granulometrie/)
+- [Investigation](https://aulnay-sous-bois.geotechnique.biz/investigation/)
+- [Labo In Situ](https://aulnay-sous-bois.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://aulnay-sous-bois.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://aulnay-sous-bois.geotechnique.biz/limites-atterberg/)
+- [Masw](https://aulnay-sous-bois.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://aulnay-sous-bois.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://aulnay-sous-bois.geotechnique.biz/murs-soutenement/)
+- [Pieux](https://aulnay-sous-bois.geotechnique.biz/pieux/)
+- [Puits Inspection](https://aulnay-sous-bois.geotechnique.biz/puits-inspection/)
+- [Refraction Sismique](https://aulnay-sous-bois.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://aulnay-sous-bois.geotechnique.biz/resistivite/)
+- [Sismique](https://aulnay-sous-bois.geotechnique.biz/sismique/)
+- [Sondages Spt](https://aulnay-sous-bois.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://aulnay-sous-bois.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://aulnay-sous-bois.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://aulnay-sous-bois.geotechnique.biz/talus/)
+- [Triaxial](https://aulnay-sous-bois.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://aulnay-sous-bois.geotechnique.biz/tunnels-sol-mou/)
+
+## Contact
+- Website: https://aulnay-sous-bois.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Aulnay-sous-Bois, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
